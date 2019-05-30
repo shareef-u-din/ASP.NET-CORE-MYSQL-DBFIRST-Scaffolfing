@@ -1,0 +1,11 @@
+D:\VISUAL_STUDIO_PROGRAMS\WebApplication1\DemoModels\bin\Debug\netcoreapp2.1\DemoModels.deps.json
+D:\VISUAL_STUDIO_PROGRAMS\WebApplication1\DemoModels\bin\Debug\netcoreapp2.1\DemoModels.runtimeconfig.json
+D:\VISUAL_STUDIO_PROGRAMS\WebApplication1\DemoModels\bin\Debug\netcoreapp2.1\DemoModels.runtimeconfig.dev.json
+D:\VISUAL_STUDIO_PROGRAMS\WebApplication1\DemoModels\bin\Debug\netcoreapp2.1\DemoModels.dll
+D:\VISUAL_STUDIO_PROGRAMS\WebApplication1\DemoModels\bin\Debug\netcoreapp2.1\DemoModels.pdb
+D:\VISUAL_STUDIO_PROGRAMS\WebApplication1\DemoModels\obj\Debug\netcoreapp2.1\DemoModels.csproj.CoreCompileInputs.cache
+D:\VISUAL_STUDIO_PROGRAMS\WebApplication1\DemoModels\obj\Debug\netcoreapp2.1\DemoModels.AssemblyInfoInputs.cache
+D:\VISUAL_STUDIO_PROGRAMS\WebApplication1\DemoModels\obj\Debug\netcoreapp2.1\DemoModels.AssemblyInfo.cs
+D:\VISUAL_STUDIO_PROGRAMS\WebApplication1\DemoModels\obj\Debug\netcoreapp2.1\DemoModels.dll
+D:\VISUAL_STUDIO_PROGRAMS\WebApplication1\DemoModels\obj\Debug\netcoreapp2.1\DemoModels.pdb
+D:\VISUAL_STUDIO_PROGRAMS\WebApplication1\DemoModels\obj\Debug\netcoreapp2.1\DemoModels.csprojAssemblyReference.cache

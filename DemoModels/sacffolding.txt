@@ -1,0 +1,11 @@
+﻿
+
+//for scaffolding the all the tables
+
+Run on Package Manager Colsole
+Scaffold-DbContext "server=localhost;Uid=root;password= ;persistsecurityinfo=True;database=DbName;SslMode=none" Pomelo.EntityFrameworkCore.MySql -OutputDir FolderNameToStoreContextClasses 
+
+
+//for scaffolding the some sepecific Tables
+
+Scaffold-DbContext "server=localhost;Uid=root;password= ;persistsecurityinfo=True;database=DbName;SslMode=none" Pomelo.EntityFrameworkCore.MySql -OutputDir FolderNameToStoreContextClasses -t tableName1, tableName2 -f 
